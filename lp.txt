@@ -323,7 +323,7 @@
       "name": "Bagaimana cara deposit untuk bermain slot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cara deposit menggunakan metode transfer pulsa sangatlah sederhana. Anda cukup memilih operator yang sesuai dengan yang Anda miliki, setelah itu isi nominal penyetoran dana. Kemudian Anda hanya tinggal menunggu transaksi deposit diproses oleh tim customer service kami."
+        "text": "Cara deposit menggunakan metode transfer atau qris sangatlah sederhana. Anda cukup memilih operator yang sesuai dengan yang Anda miliki, setelah itu isi nominal penyetoran dana. Kemudian Anda hanya tinggal menunggu transaksi deposit diproses oleh tim customer service kami."
       }
     }
   ]
@@ -2763,7 +2763,7 @@ if (clientloggerIsEnabled) {
 
   <details>
     <summary>Bagaimana cara deposit untuk bermain slot?</summary>
-    <p>Cara deposit menggunakan metode transfer pulsa sangatlah sederhana. Anda cukup memilih operator yang sesuai dengan yang Anda miliki, setelah itu isi nominal penyetoran dana. Kemudian Anda hanya tinggal menunggu transaksi deposit diproses oleh tim customer service kami.</p>
+    <p>Cara deposit menggunakan metode transfer atau qris sangatlah sederhana. Anda cukup memilih operator yang sesuai dengan yang Anda miliki, setelah itu isi nominal penyetoran dana. Kemudian Anda hanya tinggal menunggu transaksi deposit diproses oleh tim customer service kami.</p>
   </details>
 </div>
 
@@ -2805,7 +2805,7 @@ if (clientloggerIsEnabled) {
 </div>
 </div>
 <style>
-.SLOT-DEPOSIT-PULSA-fixed-footer {
+.slot-gacor-nenghoki-fixed-footer {
   position: fixed;
   bottom: 0;
   left: 0;
@@ -2824,7 +2824,7 @@ if (clientloggerIsEnabled) {
 }
 
 /* === Tombol Footer === */
-.SLOT-DEPOSIT-PULSA-fixed-footer a {
+.slot-gacor-nenghoki-fixed-footer a {
   flex: 1;
   max-width: 92px;
   text-align: center;
@@ -2841,26 +2841,26 @@ if (clientloggerIsEnabled) {
 }
 
 /* Hover */
-.SLOT-DEPOSIT-PULSA-fixed-footer a:hover {
+.slot-gacor-nenghoki-fixed-footer a:hover {
   color: #ffffff;
   transform: translateY(-4px);
 }
 
 /* === Ikon === */
-.SLOT-DEPOSIT-PULSA-fixed-footer img {
+.slot-gacor-nenghoki-fixed-footer img {
   width: 26px;
   height: 26px;
   filter: drop-shadow(0 0 6px rgba(208, 15, 24, 0.9));
   transition: transform 0.25s ease, filter 0.25s ease;
 }
 
-.SLOT-DEPOSIT-PULSA-fixed-footer a:hover img {
+.slot-gacor-nenghoki-fixed-footer a:hover img {
   transform: scale(1.18);
   filter: drop-shadow(0 0 12px rgba(208, 15, 24, 1));
 }
 
 /* === Tombol Tengah (CTA / Daftar) === */
-.SLOT-DEPOSIT-PULSA-fixed-footer .tada {
+.slot-gacor-nenghoki-fixed-footer .tada {
   position: relative;
   padding: 10px;
   border-radius: 50%;
@@ -2884,23 +2884,23 @@ if (clientloggerIsEnabled) {
 }
 
 /* Active / klik */
-.SLOT-DEPOSIT-PULSA-fixed-footer a:active {
+.slot-gacor-nenghoki-fixed-footer a:active {
   transform: scale(0.92);
   opacity: 0.85;
 }
 
 /* === Mobile Optimization === */
 @media (max-width: 500px) {
-  .SLOT-DEPOSIT-PULSA-fixed-footer {
+  .slot-gacor-nenghoki-fixed-footer {
     padding: 10px 4px;
     border-radius: 16px 16px 0 0;
   }
 
-  .SLOT-DEPOSIT-PULSA-fixed-footer a {
+  .slot-gacor-nenghoki-fixed-footer a {
     font-size: 11px;
   }
 
-  .SLOT-DEPOSIT-PULSA-fixed-footer img {
+  .slot-gacor-nenghoki-fixed-footer img {
     width: 22px;
     height: 22px;
   }
@@ -2909,7 +2909,7 @@ if (clientloggerIsEnabled) {
 
     
 
-<div class="SLOT-DEPOSIT-PULSA-fixed-footer">
+<div class="slot-gacor-nenghoki-fixed-footer">
   <a href="https://meledak-nenghoki.pages.dev/amp" target="_blank" rel="nofollow noopener">
     <img src="https://meledak-nenghoki.pages.dev/faviconneng.png" alt="LOGIN">
     LOGIN
